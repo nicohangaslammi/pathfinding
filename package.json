@@ -1,0 +1,16 @@
+{
+  "name": "com.doushi.pathfinding",
+  "version": "1.0.0",
+  "displayName": "Tilemap Pathfinding",
+  "description": "2D pathfinding using Unity's built-in tilemaps",
+  "unity": "2019.1",
+  "unityRelease": "0f2",
+  "keywords": [
+    "tilemap",
+    "pathfinding",
+    "2D"
+  ],
+  "author": {
+    "name": "Doushi"
+  }
+}
